@@ -18,7 +18,7 @@ By marking all 1 in the file, a pattern like QR code is shown.
 
 We convert the binary numbers to bitmap image with Excel to obtain the QR code.
 
-![matrix_qrcode_2.png](matrix_qrcode_2.png)
+![matrix_qrcode_4.png](matrix_qrcode_4.png)
 
 However, the QR code in the image is corrupted.
 
