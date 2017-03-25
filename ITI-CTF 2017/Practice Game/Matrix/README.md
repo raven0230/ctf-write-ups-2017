@@ -24,7 +24,7 @@ However, the QR code in the image is corrupted.
 
 We analyze the binary numbers and we found that there are duplicates.
 
-Therefore, we write a Python program to remove duplicate rows and columns in the QR code.
+Therefore, we write a Python program to remove duplicate rows and columns in the QR code. [matrix.py](matrix.py)
 
 ![matrix_qrcode_3.png](matrix_qrcode_3.png)
 
