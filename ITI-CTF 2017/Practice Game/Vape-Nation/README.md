@@ -6,7 +6,7 @@
 
 **Description:**
 
->Go Green! ![vape_nation.png](vape_nation.png)
+>Go Green!    [vape_nation.png](vape_nation.png)
 
 ## Write-up
 
