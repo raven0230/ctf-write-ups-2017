@@ -49,7 +49,6 @@ inverted_matrix = [[31,44,13,33,47,24,12,21],
 ciphertext = "7Nv7}dI9hD9qGmP}CR_5wJDdkj4CKxd45rko1cj51DpHPnNDb__EXDotSRCP8ZCQ"
 
 def mul(m1, m2):
-    global alphabet
     size = len(alphabet)
     result = []
     for mat in m1:
@@ -60,14 +59,12 @@ def mul(m1, m2):
     return result
 
 def strToCode(s):
-    global alphabet
     code = []
     for i in s:
         code.append(alphabet.find(i))
     return code
 
 def codeToStr(c):
-    global alphabet
     size = len(alphabet)
     s = ''
     for i in c:
