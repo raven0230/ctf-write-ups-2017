@@ -6,7 +6,7 @@
 
 **Description:**
 
->Thor has been worked on this for hours and he can’t solve the problem. Can you help him figure out what it is?
+>Thor has been worked on this for hours and he can’t solve the problem. Can you help him figure out what it is? [thor.txt](thor.txt)
 
 ## Write-up
 
