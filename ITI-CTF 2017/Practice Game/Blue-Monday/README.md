@@ -6,7 +6,7 @@
 
 **Description:**
 
->Those who came before me lived through their vocations From the past until completion, they'll turn away no more And still I find it so hard to say what I need to say But I'm quite sure that you'll tell me just how I should feel today.
+>Those who came before me lived through their vocations From the past until completion, they'll turn away no more And still I find it so hard to say what I need to say But I'm quite sure that you'll tell me just how I should feel today. [blue_monday](blue_monday)
 
 ## Write-up
 
