@@ -1,4 +1,4 @@
-# Thor's a hacker now
+# All your base belongs to us
 
 **Type:** Misc
 
