@@ -10,7 +10,7 @@
 
 ## Write-up
 
-We use yafu to try to factorize N.
+We use [yafu](https://sourceforge.net/projects/yafu/) to try to factorize N.
 
 ![RSA2.png](RSA2.png)
 
