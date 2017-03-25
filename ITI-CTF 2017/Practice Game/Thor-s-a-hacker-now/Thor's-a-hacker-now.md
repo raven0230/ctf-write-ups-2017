@@ -28,5 +28,7 @@ thor: JPEG image data, JFIF standard 1.01
 It is a JPEG file.
 The flag is inside the image file.
 
+![thor.jpg](thor.jpg)
+
 ## Flag
 IceCTF{h3XduMp1N9_l1K3_A_r341_B14Ckh47}
