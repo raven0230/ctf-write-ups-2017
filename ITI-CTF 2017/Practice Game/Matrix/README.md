@@ -31,4 +31,5 @@ Therefore, we write a Python program to remove duplicate rows and columns in the
 We get the flag by scanning the recovered QR code.
 
 ## Flag
-⁠⁠⁠IceCTF{1F_y0U_l0oK_c1Os3lY_EV3rY7h1N9_i5_1s_4nD_0s}
+
+IceCTF{1F_y0U_l0oK_c1Os3lY_EV3rY7h1N9_i5_1s_4nD_0s}
